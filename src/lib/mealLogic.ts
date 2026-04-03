@@ -8,6 +8,7 @@ export type Recipe = {
   steps: string[];
   tips: string;
   time: string;
+  image?: string;
 };
 
 export type DayMenu = {
