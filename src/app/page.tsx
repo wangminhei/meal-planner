@@ -132,6 +132,11 @@ export default function Home() {
 function RecipeCard({ recipe, icon }: { recipe: Recipe; icon: string }) {
   return (
     <div className="recipe-card glass-panel">
+      {recipe.image && (
+        <div className="recipe-image-wrapper">
+          <img src={recipe.image} alt={recipe.name} className="recipe-image" loading="lazy" />
+        </div>
+      )}
       <div className="recipe-header">
         <h3>{icon} {recipe.name}</h3>
         <span className="time-badge">⏱ {recipe.time}</span>
