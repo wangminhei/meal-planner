@@ -21,7 +21,8 @@
         "Hoàn thiện: Kho lửa riu riu khoảng 25-30 phút đến khi nước mắm sền sệt, kẹo lại, phủ bóng lấp lánh lên miếng cá. Rắc thêm tiêu sọ đen hoặc ớt xắt để dậy mùi."
       ],
       "tips": "Vị cá bóp béo ngậy kết hợp vị cay nồng của tiêu xanh mọng nước sẽ bùng nổ hương vị. Kho bằng thố đất sẽ giữ nhiệt độ lâu hơn giúp gia vị dần thẩm thấu vào tầng sâu của sớ thịt.",
-      "time": "45 phút"
+      "time": "45 phút",
+      "image": "/images/recipes/man_1.png"
     },
     {
       "id": "man_2",
@@ -42,7 +43,8 @@
         "Hoàn thiện: Lắc đến khi xốt keo dính tệp lấp lánh vào từng sớ thịt, tắt bếp thái nốt phần đầu hành hoa và ớt tươi rải vào đảo để tỏa hương cay tíc tắc."
       ],
       "tips": "Bí quyết mỹ vị nằm ở công đoạn tươm mỡ làm miếng ba chỉ khô giòn rìa nhưng vẫn giữ được độ mềm ẩm mượt trong phần nạc, xốt bám khít nhai giòn rụm trong vòm miệng.",
-      "time": "25 phút"
+      "time": "25 phút",
+      "image": "/images/recipes/man_2.png"
     },
     {
       "id": "man_3",
@@ -63,7 +65,8 @@
         "Tắt bếp rắc tiêu: Kẹo tôm bốc khói ngi ngút, tắt bếp. Vỏ tôm chuyển đỏ gạch, phủ lớp caramel nâu bóng. Cắn vào giòn mẩy, ngọt lịm từ thịt tôm."
       ],
       "tips": "Rượu Mai Quế Lộ chính là vũ khí bí mật giúp nâng tầm món tôm rim dân dã trở thành mỹ vị sang trọng chốn cung đình mảng hương.",
-      "time": "20 phút"
+      "time": "20 phút",
+      "image": "/images/recipes/man_3.png"
     },
     {
       "id": "man_4",
@@ -86,7 +89,8 @@
         "Ninh liu riu: Chế nước xâm xấp hầm lửa liu riu (vào mùa chêm thêm một ít nước dão dừa tươi tùy khẩu vị), kho rút kiệt làm đọng lại thứ xốt óng màu vàng rực bẩy của nghệ."
       ],
       "tips": "Vị cay the của nghệ tự nhiên và chất nén nồng lên sẽ khiến thịt gà ăn vào ấm bụng những chiều mưa, một sự hoàn hảo tinh túy phong vị miền Trung.",
-      "time": "50 phút"
+      "time": "50 phút",
+      "image": "/images/recipes/man_4.png"
     },
     {
       "id": "man_5",
@@ -108,7 +112,8 @@
         "Om hương: Trút mực vào sốt cà đun chừng 5 phút cho vỏ mực nhuộm màu rực đỏ, thẩm thấu tinh hoa chua ngọt, rắc hành ngò khi bắc xuống."
       ],
       "tips": "Không nên sống nhồi rán trực tiếp sẽ dễ làm thịt trong còn đỏ cõi, bõng vỏ. Hấp định hình là bí tông chân truyền trong việc bảo lưu độ mọng nước.",
-      "time": "40 phút"
+      "time": "40 phút",
+      "image": "/images/recipes/man_5.png"
     },
     {
       "id": "man_6",
@@ -129,7 +134,8 @@
         "Keo nước: Khi tinh dừa bốc hơi gần cạn, đọng thành loại xốt caramel quánh sệt kết tụ trên sườn bóng nhẫy, thả dăm khoanh hành tây vào tắt bếp."
       ],
       "tips": "Khi cắn vào, cảm giác sườn mềm rệu từ bên trong xé tơi đong dính màng sệt ngọt đậm tự nhiên của nước dừa, mút trọn cả đốt xương quyến rũ.",
-      "time": "45 phút"
+      "time": "45 phút",
+      "image": "/images/recipes/man_6.png"
     },
     {
       "id": "man_7",
@@ -149,7 +155,8 @@
         "Rót cốt dừa, ninh kẹo: Cho vài thìa cốt dừa / hoặc nước vào rim lửa bé giọt để sả tiệt ra hòa cùng gia giảm bao trọn miếng đùi ếch ngập ngụi."
       ],
       "tips": "Thịt ếch đồng có bản chất ngọt bùi chắc tựa gà ta lai lươn cạn. Xào cho ngọn lửa mạnh táp qua da sẽ khiến ếch đanh hơn, cắn nghe phập phập.",
-      "time": "35 phút"
+      "time": "35 phút",
+      "image": "/images/recipes/man_7.png"
     },
     {
       "id": "man_8",
@@ -169,7 +176,8 @@
         "Chưng quyện mắm ruốc: Đổ chén mắm ruốc đánh ngập vào cùng mớ thịt. Đun nhỏ lửa xào xào liên tục đến chừng keo sệt sệt, sả li ti ôm bóp lấy từng hạt thịt đẫm đìa vị mặn ngọt cay."
       ],
       "tips": "Chỉ một góc chén nhỏ chưng lên, đi theo vài lát dưa leo, là đong bay cả nồi cơm khói bốc nghi ngút. Cực kì hao cơm chốn nhân gian nồng hưng.",
-      "time": "20 phút"
+      "time": "20 phút",
+      "image": "/images/recipes/man_8.png"
     }
   ],
   "rau": [
@@ -190,7 +198,8 @@
         "Quá trình sốc chảo: Cho thần tốc vắt rau vào xóc liên tục dưới ngọn lửa lớn bùng che góc chảo. Nêm xíu hạt nêm và 1 muỗng mắm vào. Cả quy trình không quá chậm trễ 80 giây đổ ra dĩa thẳng tắp."
       ],
       "tips": "Linh hồn không thể thay thế là mỡ lợn và ngọn lửa hung bạo. Rau muống phải xào chín trong nháy mắt, màu xanh ngọc lục bồng độ giòn vỡ tan trong khoang miệng đê mê.",
-      "time": "5 phút"
+      "time": "5 phút",
+      "image": "/images/recipes/rau_1.png"
     },
     {
       "id": "rau_2",
@@ -209,7 +218,8 @@
         "Ủ quyện cải xào nấm: Rải cải thìa trên mặt chảo, đắp nấm vào trên, tưới lớp xốt vào đun nhẹ trong 1 phút lăn tăn bao bọc lấp loáng lớp dạ minh châu."
       ],
       "tips": "Món xào hoàng gia chay hay mặn đều mỹ miều. Dầu hào ngầy ngậy cùng hạt dẻ xốp của nấm hòa lẫn với bẹ cải thìa giòn nước thanh mát.",
-      "time": "15 phút"
+      "time": "15 phút",
+      "image": "/images/recipes/rau_2.png"
     },
     {
       "id": "rau_3",
@@ -226,7 +236,8 @@
         "Chấm mỹ thực: Gắp đũa rau dền mềm ủ đỏ son quyện ngập dưới đấy niêu nước kho quẹt mặn ngọt the cay cực kì kích thích tì vị."
       ],
       "tips": "Món ăn chân quê mang hồn của tuổi thơ bờ đê, một miếng rau dền thanh mát thấm quẹt đậm đà, kéo lại cái nóng nực phai phôi của mùa hè oi.",
-      "time": "20 phút"
+      "time": "20 phút",
+      "image": "/images/recipes/rau_3.png"
     },
     {
       "id": "rau_4",
@@ -245,7 +256,8 @@
         "Thưởng lãm: Dọn ra điền đọt xanh um ươm nhẹ khói, ăn vào đọt mơn mởn giòn sần sật bùi bùi tinh túy cực độc đáo xứ núi."
       ],
       "tips": "Chìa khóa ở thời điểm lửa xào, không đượm quá đà đọt sẽ bở xơ. Thời gian nằm trong chảo quyết định trọn sự sống còn ẩm thực.",
-      "time": "8 phút"
+      "time": "8 phút",
+      "image": "/images/recipes/rau_4.png"
     },
     {
       "id": "rau_5",
@@ -264,7 +276,8 @@
         "Xực thành quả: Trứng vịt mỡn chanh bao bấu lấy ngọn đắng khổ qua cân bằng lại thành một tổ hợp quyện đặc đầm, không chói mặn mà hậu bùi lan man."
       ],
       "tips": "Khổ qua xào trứng hoàn chỉnh phải rõ ranh thớ: trứng ốm lấy rau, mềm đan xen giòn, hậu ngậy đập bay cảm giác chát đầu lưỡi dội vào cổ họng là ngọt lịm.",
-      "time": "15 phút"
+      "time": "15 phút",
+      "image": "/images/recipes/rau_5.png"
     }
   ],
   "canh": [
@@ -286,7 +299,8 @@
         "Truyền thần: Quăng giá đỗ lặn ngửa. Ghiền mớ ngò om, ngò gai xắt kim. Ộp lên trên thìa dầu tỏi phi lóng lánh thơm váng sọc hồn quê."
       ],
       "tips": "Tỉ lệ hoàn mỹ của một niêu canh chua là khi húp vào miếng đầu là thanh vị me chua vuốt lưỡi, nuốt trôi để lại hậu ngọt diệu mượt ngây ngất từ cá thơm tỏi. Ngò om phi dầu nén là điểm vương vấn.",
-      "time": "30 phút"
+      "time": "30 phút",
+      "image": "/images/recipes/canh_1.png"
     },
     {
       "id": "canh_2",
@@ -305,7 +319,8 @@
         "Thả lá giang vò móp: Thấy sôi bùng, thả nạm mớ lá giang được vò dập để chất chua hòa tan thanh bạch trôi bung vào nước cốt gà, điểm 3 cọng ngò ngai ớt hiểm nêm vừa giáng vị."
       ],
       "tips": "Chất chua đọng của lá giang hoàn toàn khác me chua lõi bẳngng bẳng, nước giang mang một phong vị chua sảng khoái và kích hương khi cắn đi kèm giọt cốt gà bọc lấy.",
-      "time": "40 phút"
+      "time": "40 phút",
+      "image": "/images/recipes/canh_2.png"
     },
     {
       "id": "canh_3",
@@ -324,7 +339,8 @@
         "Lan xa chân trời: Bắc xuống ném nhúm hạt tiêu vỡ và xắt lạt thớt thì là tươi thái trôi xuống quyệt qua tạo một màng cay nằng nặc cực nịnh mút."
       ],
       "tips": "Nước hến trong dầm vắt chua mỏng manh của cà, hòa sút với độ nồng ấm của thì là khiến vị nhắp một ngụm xua tan mỏi mệt oi ả tức khắc.",
-      "time": "20 phút"
+      "time": "20 phút",
+      "image": "/images/recipes/canh_3.png"
     },
     {
       "id": "canh_4",
@@ -343,7 +359,8 @@
         "Hoàn tác: Nước canh chắt từ khổ qua mang màu ươm phớt dịu ngọt sâu hoắm, cắn xuyên mềm ngậy mộc bao vỏ chát đê mê."
       ],
       "tips": "Khi hầm khổ qua nên để mở vung để màu canh khỏi bị xỉn thành úa và đắng trút ra tịnh. Để dẫu có nguội canh màng trên trôi vẫn cứ thanh lơi ngọt lợn.",
-      "time": "60 phút"
+      "time": "60 phút",
+      "image": "/images/recipes/canh_4.png"
     },
     {
       "id": "canh_5",
@@ -362,7 +379,8 @@
         "Nêm ngò gai thanh tâm: Cho muối mắm vừa phải vớt vát độ the cay, tung rỏm ngò dăm lên múc tung chảo ngun ngút khói."
       ],
       "tips": "Một món canh thuần hương vị dinh dưỡng nôn nao bùi ngậy không từ sữa, đậu phộng gõ dập vỡ tiết mỡ thực vật kết nạp sáp bí là cực tì phàm ăn sâu.",
-      "time": "45 phút"
+      "time": "45 phút",
+      "image": "https://placehold.co/600x400/f8f9fa/f28e2b?text=Canh%20B%C3%AD%20%C4%90%E1%BB%8F%20H%E1%BA%A7m%20S%C6%B0%E1%BB%9Dn%20%C4%90%E1%BA%ADu%20Ph%E1%BB%99ng&font=roboto"
     }
   ],
   "phu": [
@@ -382,7 +400,8 @@
         "Đớp: Miếng chà nhâm nhi giòn rắc nổ trong họng, đậm mắm tỏi kích thức mọi gai giác dạ dày để húp trọn bát cháo thịt băm cơm lả."
       ],
       "tips": "Dùng để ăn trôi bết cơm cháo tẻ mặn ngày rỗi rãi, tuyệt nghệ ở chỗ độ giòn vô cấu phảng nực hương tỏi lồng.",
-      "time": "30 phút (trộn) + 1 ngày (muối)"
+      "time": "30 phút (trộn) + 1 ngày (muối)",
+      "image": "https://placehold.co/600x400/f8f9fa/f28e2b?text=C%C3%A0%20Ph%C3%A1o%20Mu%E1%BB%91i%20Th%E1%BB%95i%20T%E1%BB%8Fi%20%E1%BB%9At%20Gi%C3%B2n%20Tan&font=roboto"
     },
     {
       "id": "phu_2",
@@ -400,7 +419,8 @@
         "Khoái lạp: Kẹp chả lụa đệm sần sật mơn mởn nhai đau quẩy điếc lổ mũi."
       ],
       "tips": "Mắm nêm pha dứa xoa dịu đi hậu tanh và mang một mùi ngái lên chín cây làm mảng hương chua cay mặn trổ thiên hoa.",
-      "time": "15 phút"
+      "time": "15 phút",
+      "image": "https://placehold.co/600x400/f8f9fa/f28e2b?text=M%E1%BA%AFm%20D%C6%B0a%20%C4%90%C3%A8o%20V%E1%BB%8B%20C%E1%BB%91t%20Ru%E1%BB%91c%20Nam%20B%E1%BB%99&font=roboto"
     },
     {
       "id": "phu_3",
@@ -418,7 +438,8 @@
         "Lá chanh phủi rưới: Tép tươm mật giòn bục tan lả khéo với mùi mặn nôn của mỡ mị cọp nướng sệt vào xúi khế."
       ],
       "tips": "Mê đắm giòn tan kích độ rền. Nó mặn ngót đến độ nhóp nhép ăn không cũng thành món cỗ lửng lạ lẫm.",
-      "time": "15 phút"
+      "time": "15 phút",
+      "image": "https://placehold.co/600x400/f8f9fa/f28e2b?text=T%C3%A9p%20Dong%20Rang%20Kh%E1%BA%BF%20Chua%20C%E1%BB%91t%20V%E1%BB%ABa&font=roboto"
     },
     {
       "id": "phu_4",
@@ -436,7 +457,8 @@
         "Chan tưới váng dừa: Gắp viên nhỏ bành tô rót kẹo nước đường đẫm lên rưới sốt cốt dừa mảy dẻo phớt màng, cắn phập màng dẻo lan tận tâm sen bùi thanh đạm bừng hương."
       ],
       "tips": "Cực ẩm thực tráng miệng sau chuỗi cỗ xáo xào mặn ngợp. Xua lạnh gừng kéo vị giác về sự thư thả tĩnh mịch đượm đà hồn Nam.",
-      "time": "40 phút"
+      "time": "40 phút",
+      "image": "https://placehold.co/600x400/f8f9fa/f28e2b?text=Ch%C3%A8%20Tr%C3%B4i%20N%C6%B0%E1%BB%9Bc%20L%C3%B5i%20%C4%90%E1%BA%ADu%20Xanh%20%C4%90%C3%A1nh%20D%E1%BB%ABa%20M%C3%A8&font=roboto"
     },
     {
       "id": "phu_5",
@@ -454,7 +476,8 @@
         "Quặn cuốn/gấp kẹp: Khi rìa phồng cháy khét nhẹ 1 gờ, lật gập xếp quải tròn mỏng vỏ rẽ vụn bóc đưa xống. Tan vỡ kịch kịch, ngọt béo giòn um nức lòng."
       ],
       "tips": "Rụp rụp một miếng âm vang vui tai, hớp một ngụm nhân mặn trứng quyện ruốc đong đầy xao xuyến tuổi hồi ức chốn chợ chiều lộng gió.",
-      "time": "10 phút"
+      "time": "10 phút",
+      "image": "https://placehold.co/600x400/f8f9fa/f28e2b?text=B%C3%A1nh%20Tr%C3%A1ng%20N%C6%B0%E1%BB%9Bng%20M%E1%BA%AFm%20Ru%E1%BB%91c%20M%E1%BB%A1%20H%C3%A0nh%20Qu%E1%BA%B9t%20Ng%C3%B2&font=roboto"
     }
   ]
 }
